@@ -8,6 +8,11 @@ An original responsive restaurant frontend for CSCI426 Advanced Web Programming,
 **University:** Lebanese International University (LIU)  
 **Mode:** Individual project
 
+## Project links
+
+- **Live website:** [ember-restaurant-rust.vercel.app](https://ember-restaurant-rust.vercel.app/)
+- **GitHub repository:** [JaafarSabra/EMBER-Restaurant](https://github.com/JaafarSabra/EMBER-Restaurant)
+
 ## Run locally
 
 Requires Node.js 20+.
@@ -48,7 +53,7 @@ The EMBER visual direction was approved page by page before implementation. Orig
 
 ## Assignment handoff
 
-Student details, six UI screenshots and the PDF report are included. Complete an individual statement only if required by the instructor; describe actual work honestly. Push to your own GitHub repository with real commit history and deploy to an instructor-approved host. The private ChatGPT Site is a review preview, not the required GitHub submission.
+Student details, eight UI screenshots and the PDF report are included. Complete an individual statement only if required by the instructor; describe actual work honestly. The project repository is hosted on GitHub and the website is deployed on Vercel using the links above. Commit genuine project changes to maintain version history.
 
 ## Motion and gallery
 
@@ -100,6 +105,6 @@ public/assets/             Local images
 - [Presentation script and questions](docs/PRESENTATION.md)
 - [Contribution statement template](docs/CONTRIBUTION_TEMPLATE.md)
 
-**GitHub repository:** TO COMPLETE after manual publication.
+**GitHub repository:** https://github.com/JaafarSabra/EMBER-Restaurant
 
-**Vercel deployment:** TO COMPLETE after deployment. The private review preview is not the instructor-approved hosting submission.
+**Vercel deployment:** https://ember-restaurant-rust.vercel.app/
